@@ -1,0 +1,6 @@
+.cache
+anal.py
+.venv
+resources
+output
+__pycache__
